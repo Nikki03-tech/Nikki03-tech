@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Nikki 👋
 
-<!--
-**Nikki03-tech/Nikki03-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GSoC 2026 Processing Foundation** | Hyderabad, India
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+```javascript
+JavaScript, HTML, CSS, Python, Node.js, Git
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured
+[![PR #4048] (https://img.shields.io/badge/PR%20%234048-Processing-brightgreen)](https://github.com/processing/p5.js-web-editor/pull/4048)
+
+## 📈 Stats
+![Nikki's GitHub stats] (https://github-readme-stats.vercel.app/api?username=Nikki03-tech&show_icons=true)
