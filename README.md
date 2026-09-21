@@ -1,24 +1,18 @@
-# Hi, I'm Nikki 👨‍💻
+# Hi, I'm Nikitha 👋
+**B.Tech CSE '27 · AI & Software Engineering · Hyderabad**
 
-**GSoC 2026 Processing Foundation** | Hyderabad, India | IST  
-*JavaScript Developer → p5.js Web Editor Contributor*
+I build multi-agent AI systems in Python and web apps in JavaScript.
+AI Intern at Infosys Springboard (Virtual Internship 7.0). Open to
+software engineering and AI engineering internships.
 
-## 🌟 Featured Work
-[![PR #4048](https://img.shields.io/badge/PR%20%234048-p5.js-brightgreen)](https://github.com/processing/p5.js-web-editor/pull/4048)
+## Featured project
+**AI Startup Idea Validator** – a multi-agent pipeline (LangChain,
+LangGraph) that turns a 2–3 line startup idea into a research-backed
+validation report. → github.com/Nikki03-tech/Ai-startup-idea-validator
 
-**Live Contribution**: Fixed docs in official p5.js Web Editor repo
+## Tech
+Python · JavaScript · HTML/CSS · Node.js · LangChain · LangGraph · Git
 
-## 🛠️ Tech Stack
-
-## 🛠️ Skills
-```javascript
-JavaScript, HTML, CSS, Python, Node.js, Git
-```
-
-## 📈 2026 Goals
-- ✅ GSoC Processing Foundation (E2E Testing)
-- ⏳ Google Summer Internship  
-- 🔄 10+ open source contributions
-
----
-**Let's build creative coding tools together!** #p5js #GSoC2026
+## Contact
+LinkedIn: linkedin.com/in/nikitha-singhraj-purohit-862317301
+Email: nikkiraj2504@gmail.com
